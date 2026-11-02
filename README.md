@@ -110,4 +110,4 @@ It provides insights into the relationship between credit scores, income, loan c
 
 ## 12. Author
 
-**Shiva Tiwari**
+**Shiv Shankar Tiwari**
